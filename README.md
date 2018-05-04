@@ -10,7 +10,7 @@ Textbook PDFs:
 
 
 Lecture Outlines (1,2,3):
-&nbsp;    Lectures taken grouped by time before each of the three exams.
+&nbsp;    Lectures slides grouped by time before each of the three exams.
     
 
 	
